@@ -27,7 +27,7 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: bundle config set --local path 'vendor/bundle'
+        run: bundle install
 
       - name: Build site
         run: bundle exec jekyll build --safe --trace -d _site
