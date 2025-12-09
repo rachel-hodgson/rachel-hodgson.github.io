@@ -2,7 +2,8 @@
 title: Rachel Hodgson Portfolio
 description: Product Development Engineer | Building tech solutions for increased productivity and improved workflows
 url: "https://rachel-hodgson.github.io"
-theme: minima
+theme: jekyll-theme-minimal
+logo: /assets/img/Medmonitorlogo.png
 
 # Navigation
 header_pages:
