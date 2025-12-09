@@ -1,0 +1,27 @@
+
+title: Rachel Hodgson Portfolio
+description: Product Development Engineer | Building tech solutions for increased productivity and improved workflows
+url: "https://rachel-hodgson.github.io"
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+
+# Social links (optional)
+github_username: rachel-hodgson
+linkedin_username: rachel-hodgson-ab7583212
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections (for case studies)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
