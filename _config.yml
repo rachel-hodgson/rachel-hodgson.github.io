@@ -2,7 +2,9 @@
 title: Rachel Hodgson Portfolio
 description: Product Development Engineer | Building tech solutions for increased productivity and improved workflows
 url: "https://rachel-hodgson.github.io"
-theme: minima
+# theme: minima
+
+remote_theme: jekyll/minima
 
 # Navigation
 header_pages:
@@ -19,6 +21,7 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Collections (for case studies)
 collections:
