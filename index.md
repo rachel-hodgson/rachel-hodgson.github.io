@@ -1,6 +1,5 @@
-
 ---
-layout: home
+layout: default
 title: Home
 permalink: /
 ---
@@ -18,11 +17,5 @@ Software Engineer based in Auckland, seeking opportunities in Sydney’s busines
 
 {% assign featured = site.projects | where: "featured", true %}
 {% for project in featured %}
-- [{{ project.title }}]({{ project.url }}) — {{ project.summary }}
-{% endfor %}
-
-### Latest Case Studies
-
-{% for project in site.projects limit:3 %}
 - [{{ project.title }}]({{ project.url }}) — {{ project.summary }}
 {% endfor %}
