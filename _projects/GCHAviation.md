@@ -4,13 +4,13 @@ layout: page
 title: GCH Aviation
 summary: Reduce 240 hours of manual data management
 featured: true
-permalink: /projects/gchaviation/
+permalink: /gchaviation/
 tags: [workflow optimisation, small business]
 ---
 
 # GCH Aviation
-## Company/Domain: Aviation
-## Role: Contracting optimisation engineer, direct development with IT Manager, CIO and ground team
+## Aviation
+## Contracting optimisation engineer, direct development with IT Manager, CIO and ground team
 
 ### Problem
 The ground team spends 20 minutes, up to 20 times per week manually handling and entering information into PDFs for incoming and outgoing flights for customs management. 

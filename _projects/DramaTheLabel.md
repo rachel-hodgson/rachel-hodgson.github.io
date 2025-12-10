@@ -4,13 +4,13 @@ layout: page
 title: Drama The Label
 summary: Reducing 320 hours of data entry per year
 featured: true
-permalink: /projects/dramathelabel/
+permalink: /dramathelabel/
 tags: [workflow optimisation, small business]
 ---
 
 # Drama The Label
-## Company/Domain: Small business, boutique clothing
-## Role: Contracting optimisation engineer, direct development with CEO 
+## Small business, boutique clothing
+## Contracting optimisation engineer, direct development with CEO 
 
 ### Problem
 Sales team were spending 2 weeks, 4 times per year (320 hours), collating and manually entering orders from customers to send through to suppliers. 

@@ -4,13 +4,13 @@ layout: page
 title: MedMonitor
 summary: Early detection of patient deterioration
 featured: true
-permalink: /projects/medmonitor/
+permalink: /medmonitor/
 tags: [healthcare, medical, technology]
 ---
 
 # MedMonitor
-## Company/Domain: Medical devices, healthcare analytics
-## Role: CEO, direct involvement with national (New Zealand) hospitals boards and clinicians 
+## Medical devices, healthcare analytics
+## CEO, direct involvement with national (New Zealand) hospitals boards and clinicians 
 
 ### Problem
 Early detection of deterioration in patients entering the emergency department could save thousands of lives globally. With increasing populations and decreasing nursing and clinical staff, monitoring patients in heavily crowded areas such as waiting rooms is becoming more demanding. 

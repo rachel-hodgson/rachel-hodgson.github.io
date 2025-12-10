@@ -4,13 +4,13 @@ layout: page
 title: BeteCheck
 summary: Fast and reliable type two diabetes detection
 featured: true
-permalink: /projects/betecheck/
+permalink: /betecheck/
 tags: [healthcare, medical, technology]
 ---
 
 # Ceratec Health, BeteCheck
-## Company/Domain: Diabetes care, medical technology 
-## Role: Contracting CTO, working directly alongside CEO
+## Diabetes care, medical technology 
+## Contracting CTO, working directly alongside CEO
 
 ### Problem
 Enabling type two diabetes diagnosis tools to lower income workers in construction and labouring roles. 

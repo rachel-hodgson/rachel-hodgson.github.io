@@ -4,13 +4,13 @@ layout: page
 title: Product Development Engineer
 summary: A range of projects in embedded medical device industry
 featured: true
-permalink: /projects/fisherandpaykel/
+permalink: /fisherandpaykel/
 tags: [healthcare, medical, technology, embedded systems]
 ---
 
 # Fisher & Paykel Healthcare
-## Company/Domain: Embedded healthcare devices
-## Role: Full time embedded systems engineer, directly involved with several products groups and cross-functional teams 
+## Embedded healthcare devices
+## Full time embedded systems engineer, directly involved with several products groups and cross-functional teams 
 
 ### Problem
 Providing and continuing to improve patient care and outcomes through respiratory humidification.
