@@ -11,7 +11,7 @@ permalink: /
 
 Software Engineer based in Auckland, seeking opportunities in Sydney’s business district. I specialize in designing, building, and implementing technical solutions that boost productivity and streamline workflows for businesses. My diverse industry experience gives me a strong understanding of operational needs and user-centric design.
 
-**Technical background:** Embedded C++ systems for healthcare devices, Python-based workflow automation applications, web applications leveraging Python, JavaScript, and TensorFlow for medical solutions
+**Technical background:** Embedded C++ systems for healthcare devices, Python-based workflow automation applications, web applications leveraging Python, Java, Typescript, JavaScript, React, Angular, Android, and TensorFlow for medical solutions
 
 **Focus areas:** 
 - Systems thinking & translating business needs into technical requirements
@@ -20,7 +20,7 @@ Software Engineer based in Auckland, seeking opportunities in Sydney’s busines
 - Diverse industry knowledge to understand your purpose
 - Testing design, workflow automation, data integration
 
-**Tools:** Python, C++, JavaScript, TypeScript, SQL, Excel, MatLab
+**Tools:** Python, Java, C++, JavaScript, TypeScript, SQL, Excel, MatLab, Android, React, Angular
 
 ### Featured Projects
 
