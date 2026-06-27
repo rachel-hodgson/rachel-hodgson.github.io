@@ -6,7 +6,7 @@ permalink: /
 
 ## Welcome!
 
-### Product Development Engineer · Open to freelance/contract work and remote development
+### Product Development Engineer · Software and Embedded Systems · Open to freelance/contract work and remote development
 #### Helping teams and companies turn ambiguous problems or processes into tested, streamlined outcomes.
 
 Software Engineer based in Sydney, Australia. I specialize in designing, building, and implementing technical solutions that boost productivity and streamline workflows for businesses. My diverse industry experience gives me a strong understanding of operational needs and user-centric design.
